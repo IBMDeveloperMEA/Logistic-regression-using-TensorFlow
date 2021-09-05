@@ -12,7 +12,14 @@
 
 - Workshop Replay: https://www.crowdcast.io/e/logistic-regression
 
-  
+## Prerequisites
+
+The following prerequisites are required to follow the tutorial:
+
+-   [IBM Cloud account](https://cloud.ibm.com/registration?cm_sp=ibmdev-_-developer-tutorials-_-cloudreg)
+-   [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data)  or  [IBM Watson® Studio](https://www.ibm.com/cloud/watson-studio)
+-   [IBM Watson Machine Learning Service](https://www.ibm.com/cloud/machine-learning)
+
 ## **Sign-up/Login to IBM Cloud**
 
 If you are an existing user please [login to IBM Cloud](<https://ibm.biz/BdfppF>)
@@ -86,13 +93,8 @@ So, logistic regression passes the input through the logistic/sigmoid function, 
 
 ![Probability results](https://developer.ibm.com/developer/default/tutorials/build-a-logistic-regression-neural-network-using-tensorflow/images/figure1.png)
 
-## Prerequisites
 
-The following prerequisites are required to follow the tutorial:
 
--   [IBM Cloud account](https://cloud.ibm.com/registration?cm_sp=ibmdev-_-developer-tutorials-_-cloudreg)
--   [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data)  or  [IBM Watson® Studio](https://www.ibm.com/cloud/watson-studio)
--   [IBM Watson Machine Learning Service](https://www.ibm.com/cloud/machine-learning)
 
 ## Estimated time
 
@@ -189,8 +191,6 @@ The Notebook provides a simple example of a logistic function to help you unders
 ## Summary
 
 In this tutorial, you learned the basics of logistic regression and how TensorFlow is used to implement machine learning algorithms. You learned how to run a Jupyter Notebook using Watson Studio on IBM Cloud Pak for Data as a Service, and how to use open source frameworks in the IBM Cloud Pak for Data as a Service platform.
-
-## Sample Outputs
 
 
 ## Workshop Resources
