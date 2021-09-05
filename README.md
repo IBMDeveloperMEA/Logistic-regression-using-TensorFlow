@@ -96,19 +96,16 @@ So, logistic regression passes the input through the logistic/sigmoid function, 
 
 
 
-## Estimated time
-
-It should take you approximately 60 minutes to complete this tutorial.
 
 ## Steps
 
-1.  [Create your IBM Cloud Account and access the IBM Cloud Pak for Data as a Service.](https://developer.ibm.com/tutorials/build-a-logistic-regression-neural-network-using-tensorflow/#create-ibm-cloud-account)
-2.  [Create a new project.](https://developer.ibm.com/tutorials/build-a-logistic-regression-neural-network-using-tensorflow/#create-a-new-project)
-3.  [Associate the Watson Machine Learning Service with the project.](https://developer.ibm.com/tutorials/build-a-logistic-regression-neural-network-using-tensorflow/#Associate-the-watson-machine-learning-service-with-the-project)
-4.  [Add a Notebook to your project.](https://developer.ibm.com/tutorials/build-a-logistic-regression-neural-network-using-tensorflow/#add-notebook-to-project)
-5.  [Run the Notebook.](https://developer.ibm.com/tutorials/build-a-logistic-regression-neural-network-using-tensorflow/#run-the-notebook)
+1.  [Create your IBM Cloud Pak for Data as a Service.](#step-1.-create-your-ibm-cloud-pak-for-data-as-a-service)
+2.  [Create a new project.](#step-2.-create-a-new-project)
+3.  [Associate the Watson Machine Learning Service with the project.](#step-3.-associate-the-watson-machine-learning-service-with-the-project)
+4.  [Add a Notebook to your project.](#step-4.-add-notebook-to-project)
+5.  [Run the Notebook.](#step-5.-run-the-notebook)
 
-### Step 1. Create IBM Cloud account
+### Step 1. Create your IBM Cloud Pak for Data as a Service
 
 1.  Sign in to your  [IBM Cloud account](https://cloud.ibm.com/registration?cm_sp=ibmdev-_-developer-tutorials-_-cloudreg).
 2.  Search for Watson Studio.
