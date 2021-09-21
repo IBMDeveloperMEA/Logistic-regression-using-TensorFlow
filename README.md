@@ -160,7 +160,7 @@ So, logistic regression passes the input through the logistic/sigmoid function, 
 2.  Select  **From URL**, and enter the following URL in the Notebook URL field.
     
     ```
-     https://github.com/IBM/dl-learning-path-assets/tree/main/fundamentals-of-deeplearning/notebooks/Logistic_Regression_with_TensorFlow.ipynb
+     https://github.com/IBMDeveloperMEA/Logistic-regression-using-TensorFlow/blob/main/logistic-regression.ipynb
     
     ```
     
