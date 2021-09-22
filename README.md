@@ -4,7 +4,7 @@
 
 ## Workshop Resources
 
-- Login/Sign Up for IBM Cloud: https://ibm.biz/BdfppF
+- Login/Sign Up for IBM Cloud: http://ibm.biz/LR-TensorFlow
   
 - Hands-On Guide: https://developer.ibm.com/tutorials/build-a-logistic-regression-neural-network-using-tensorflow/
 
@@ -160,7 +160,7 @@ So, logistic regression passes the input through the logistic/sigmoid function, 
 2.  Select  **From URL**, and enter the following URL in the Notebook URL field.
     
     ```
-     https://github.com/IBMDeveloperMEA/Logistic-regression-using-TensorFlow/blob/main/logistic-regression.ipynb
+https://github.com/IBMDeveloperMEA/Logistic-regression-using-TensorFlow/blob/main/logistic-regression.ipynb
     
     ```
     
